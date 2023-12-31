@@ -7,7 +7,7 @@ Requirement:
 Telegram Account and Valid Terabox Download Link.
 Start the Bot and Follow the steps to generate the direct link.
 
-https://t.me/uniersalbypassbot
+https://t.me/[uniersalbypassbot](https://t.me/Teraboxlinkbypass_bot)
 
 Dont abuse direct link services.
 If facing Downloading Issues in India, use VPN (recommended: protonvpn)
