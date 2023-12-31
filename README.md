@@ -1,5 +1,3 @@
-![image](https://github.com/whyhatewhen/Terabox-Downloader-Telegram-2024/assets/78243989/9d6928f1-c678-4127-af37-ee2c75c98f75)
-
 # Terabox-Downloader-Telegram-2024
 Terabox Downloader for Telegram.
 ![image](https://github.com/whyhatewhen/Terabox-Downloader-Telegram-2024/assets/78243989/4697f345-f4f5-433e-b1c3-4dbedcf0e0fe)
