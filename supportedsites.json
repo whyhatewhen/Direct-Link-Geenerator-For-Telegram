@@ -1,0 +1,123 @@
+#supported sites
+appdrive
+driveapp
+drivehub
+gdflix
+drivesharer
+drivebit
+drivelinks
+driveace
+drivepro
+driveseed
+exe, exey
+sub2unlock, sub2unlock
+rekonise
+letsboost
+phapps2app
+mboost
+sub4unlock
+ytsubme
+bitly
+social-unlock
+boost
+gooly
+shrto
+tinyurl
+yandex
+mediafire
+uptobox
+osdn
+github
+hxfile
+1drv (onedrive)
+pixeldrain
+antfiles
+streamtape
+racaty
+1fichier
+solidfiles
+krakenfiles
+upload
+akmfiles
+linkbox
+shrdsk
+letsupload
+zippyshare
+wetransfer
+terabox, teraboxapp, 4funbox, mirrobox, nephobox, momerybox
+filepress
+anonfiles, hotfile, bayfiles, megaupload, letsupload, filechan, myfile, vshare, rapidshare, lolabits, openload, share-online, upvid
+fembed, fembed, femax20, fcdn, feurl, layarkacaxxi, naniplay, nanime, naniplay, mm9842
+sbembed, watchsb, streamsb, sbplay.
+igg-games
+olamovies
+katdrive
+drivefire
+kolop
+hubdrive
+filecrypt
+shareus
+shortingly
+gyanilinks
+shorte
+psa
+sharer
+new1.gdtot
+adfly
+gplinks
+droplink
+linkvertise
+rocklinks
+ouo
+try2link
+htpmovies
+sharespark
+cinevood
+atishmkv
+urlsopen
+xpshort, techymozo
+dulink
+ez4short
+krownlinks
+teluguflix
+taemovies
+toonworld4all
+animeremux
+adrinolinks
+tnlink
+flashlink
+short2url
+tinyfy
+mdiskshortners
+earnl
+moneykamalo
+easysky
+indiurl
+linkbnao
+mdiskpro
+tnshort
+indianshortner
+rslinks
+bitly, tinyurl
+thinfi
+pdisk
+vnshortener
+onepagelink
+lolshort
+tnvalue
+vipurl
+shutterstock
+adobe stock
+drivehub
+alamy
+gettyimages
+istockphoto
+picfair
+slideshare
+medium
+HELP_TEXT = f'**--Just Send me any Supported Links From Below Mentioned Sites--**n\
+**List of Sites for DDL : **n{ddltext}
+**List of Sites for Shortners : **n{shortnertext}
+**List of Sites for GDrive Look-ALike : **n{gdrivetext}
+**List of Sites for Jumping Paywall : **n{freewalltext}
+**Other Supported Sites : **n{otherstext}'
